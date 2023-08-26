@@ -31,6 +31,8 @@ There's also [links](https://www.freecodecamp.com), and
 
 ![React Logo w/ Text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
 
+![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
+
 - And of course there are lists.
   - Some are bulleted.
       - With different indentation levels.
